@@ -54,7 +54,7 @@ Open terminal or command prompt
 
 Compile the program:
 
-javac BeginnerArrayApp.java
+javac Main.java
 
 
 Run the program:
