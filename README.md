@@ -59,7 +59,7 @@ javac Main.java
 
 Run the program:
 
-java BeginnerArrayApp
+java Main
 
 🧪 Sample Input
 Enter number of elements: 4
